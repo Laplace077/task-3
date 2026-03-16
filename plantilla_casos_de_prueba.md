@@ -37,24 +37,6 @@ Cada caso de prueba debe completarse en su propia tabla. Copie el bloque de tabl
 | Notas | Observaciones adicionales o defectos encontrados | Texto libre |
 
 ---
-
-## Bloque de caso de prueba (copiar y rellenar)
-
-| Campo | Valor |
-|---|---|
-| **ID** | TC-___ |
-| **Modulo** | |
-| **Tipo** | |
-| **Prioridad** | |
-| **Precondiciones** | |
-| **Pasos** | 1. <br> 2. <br> 3. |
-| **Resultado esperado** | |
-| **Resultado obtenido** | |
-| **Estado** | |
-| **Notas** | |
-
----
-
 ## Ejemplos completados
 
 ### Ejemplo 1 — Prueba Unitaria
